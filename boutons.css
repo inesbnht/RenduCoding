@@ -1,0 +1,87 @@
+.bouton{
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: underline;
+    padding-right: 100px;
+    margin-bottom: 4vh;
+}
+
+.clicked{
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: underline;
+    margin-bottom: 4vh;
+}
+
+.connection{
+    background-color: rgb(24, 27, 42);
+    color: aliceblue;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 3%;
+    margin-top: 1vh;
+}
+
+.connection_clicked{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid aliceblue;
+    padding: 3%;
+    margin-top: 16vh;
+}
+
+.accueil{
+    background-color: rgb(24, 27, 42);
+    color: aliceblue;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 3%;
+    margin-top: 1vh;
+}
+
+.accueil_clicked{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid aliceblue;
+    padding: 3%;
+    margin-top: 16vh;
+}
+
+.bouton :hover{
+    cursor: pointer;
+}
+
+.clicked :hover{
+    cursor: pointer;
+}
+
+.connection :hover{
+    cursor: pointer;
+}
+
+.accueil :hover{
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
